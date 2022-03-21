@@ -1,0 +1,46 @@
+.character-card{
+	width: 25%;
+	height: 700px;
+}
+
+.character-card img{
+	height: 400px;
+	width: 100%;
+}
+
+.character-card-selected {
+	width: 25%;
+	height: 700px;
+	background-color: rgb(163, 163, 163);
+}
+
+.character-card-selected img {
+	height: 400px;
+	width: 100%;
+}
+
+.character-card-selected p {
+	color: white;
+}
+
+
+.character-card-selected p {
+	color: white;
+}
+
+.character-card-selected h4 {
+	color: white;
+}
+
+.unShow {
+	display: none;
+}
+
+.show {
+	display: inline;
+}
+
+.ver {
+	color: blue;
+	font-style: oblique;
+}
